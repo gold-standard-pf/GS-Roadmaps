@@ -10,8 +10,10 @@
 - Dex visibility
 - Community growth campaigns
 - Website analytics dashboard
+- DAS (exploration)
 
 ## Phase 3 — Strength
+- Daily Arcade System 
 - Governance experimentation
 - Holder recognition system
 - Ecosystem tools exploration
